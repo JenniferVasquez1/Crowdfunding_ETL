@@ -7,7 +7,7 @@
 ## Description
 Built an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform campaign data, created four CSV files and used the file data to create an ERD and table schema 
 
-![app_image](category.png)
+![app_image](images/campaign.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -25,7 +25,7 @@ Python, pandas, postgreSQL, QuickDBdiagrams, jupyter notebook
 Run ipynd file
 
 ## Credits
-Jennifer Harris, Jarvis Cat, Luke O'malley
+Jennifer Harris, Jarvis Cathey, Luke O'malley
 
 ## License
 MIT
@@ -33,6 +33,13 @@ MIT
 ## Features
 Dataframes, databases, ERD, images
 
+![ERD](images/ERD.png)
+
+![app_image](images/category.png)
+
+![app_image](images/subcategory.png)
+
+![app_image](images/contacts.png)
 
 
 ## Contact
